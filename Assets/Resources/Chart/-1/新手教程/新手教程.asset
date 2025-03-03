@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 120f88b1b77d0b040bb3b07ef320b3b8, type: 3}
+  m_Name: "\u65B0\u624B\u6559\u7A0B"
+  m_EditorClassIdentifier: 
+  levelData:
+    songName: "\u65B0\u624B\u6559\u7A0B"
+    chapterID: -1
+    songID: 0300
+    songArtist: BerryMelody
+    illusArtist: 0
+    chartArtist:
+    - 0
+    previewTime: {x: 0, y: 0}
+    levelDifficulty:
+    - 0
+    levelDiffs: 1
+    Illustration: {fileID: 21300000, guid: 668e1206a604bda4791dbe19cf28cc71, type: 3}
+    selectIll: {fileID: 21300000, guid: f216c38c6a35200429073b1a6a5cb505, type: 3}
+    MusicClip: {fileID: 8300000, guid: 50ee0dfc49e804dfab5321b98a91d203, type: 3}
+    TargetDiff: 1
+  pathFather: 

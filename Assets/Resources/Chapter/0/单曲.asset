@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659dfacc7b990784092323b82ce58978, type: 3}
+  m_Name: "\u5355\u66F2"
+  m_EditorClassIdentifier: 
+  identifier: 1
+  illustration: {fileID: 21300000, guid: f34bdc9caf42e544e8e19997b52a06a1, type: 3}
+  chapterName: Oira's Suitcase
+  chapterTitle: "\u5355\u66F2"
+  levelDataObjects:
+  - {fileID: 11400000, guid: d30492b41af0a4d5f9d086df18e3d13d, type: 2}
+  - {fileID: 11400000, guid: 9ddbc5b806b9c49899570aa6ae8e8cf3, type: 2}
+  - {fileID: 11400000, guid: c5e4b3bc08cdd4910892691c81b6f314, type: 2}
+  - {fileID: 11400000, guid: d0aced9547fc54ca99ad4a8f41186f15, type: 2}
+  - {fileID: 11400000, guid: ef2edd1c5e94d44e7b390dcb91ef92d8, type: 2}
+  - {fileID: 11400000, guid: b420b341841fd4e96afc831166991d19, type: 2}
+  - {fileID: 11400000, guid: 669a3e74838e941ad870949e3709b47f, type: 2}
+  - {fileID: 11400000, guid: e850d514d4d2146349df9d4e9d0d0126, type: 2}
+  - {fileID: 11400000, guid: d239b20bf46ee4667928c3f3b696bb2d, type: 2}
+  - {fileID: 11400000, guid: bcd1b0234122042028c373cae72cdd57, type: 2}
+  - {fileID: 11400000, guid: 74e5fee5f5f7d478a8a0ef4340870ba3, type: 2}
+  - {fileID: 11400000, guid: c39618dce00f5411d9c6c92241bf3e11, type: 2}
+  - {fileID: 11400000, guid: a15c48d18d9a34df19f5b42454ef0b8a, type: 2}
+  - {fileID: 11400000, guid: e8e0f3d7f808b41098ef4323dedc8072, type: 2}
+  - {fileID: 11400000, guid: e92519dcd7a9444b1a9d4f458300d381, type: 2}

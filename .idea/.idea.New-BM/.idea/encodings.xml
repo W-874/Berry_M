@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../BMEditor.Shared/Runtime/Main/MainCommander.cs" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/BM/Data/ScriptableObject/ActivityDataObject.cs" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/BM/GameUI/Settings/SettingsManager.cs" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/Controller/MainElementController.cs" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/Assets/Scripts/GamePlay/Controller/StopSPC.cs" charset="GB2312" />
+  </component>
+</project>

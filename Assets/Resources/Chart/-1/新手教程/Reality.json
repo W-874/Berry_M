@@ -1,0 +1,6203 @@
+{
+  "MainBm": {
+    "MapAuthor": "kira999",
+    "MusicAuthor": "1",
+    "Artist": "1",
+    "BackgroundPath": null,
+    "TimeOffset": 0.0,
+    "Speed": 1.0,
+    "Size": [
+      0.25,
+      0.75
+    ],
+    "RelativeAudioPath": "风之市集(Extended Version).wav",
+    "NoteClipNum": 0,
+    "BackgroundTheme": "Light",
+    "JudgementTheme": "Light"
+  },
+  "TrackBm": [
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 17.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 17.561,
+                  "StartTime": 0.0,
+                  "StartValue": 17.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 43.902,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 43.902,
+                  "StartTime": 0.0,
+                  "StartValue": 43.902,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 48.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 48.293,
+                  "StartTime": 0.0,
+                  "StartValue": 48.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 80.122,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 80.122,
+                  "StartTime": 0.0,
+                  "StartValue": 80.122,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 90.0,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 90.0,
+                  "StartTime": 0.0,
+                  "StartValue": 90.0,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 91.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 91.098,
+                  "StartTime": 0.0,
+                  "StartValue": 91.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 93.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 93.293,
+                  "StartTime": 0.0,
+                  "StartValue": 93.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 95.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 95.488,
+                  "StartTime": 0.0,
+                  "StartValue": 95.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 108.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 108.659,
+                  "StartTime": 0.0,
+                  "StartValue": 108.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 110.854,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 110.854,
+                  "StartTime": 0.0,
+                  "StartValue": 110.854,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 113.049,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 113.049,
+                  "StartTime": 0.0,
+                  "StartValue": 113.049,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 114.878,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 114.878,
+                  "StartTime": 0.0,
+                  "StartValue": 114.878,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 117.073,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 117.073,
+                  "StartTime": 0.0,
+                  "StartValue": 117.073,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 120.366,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 120.366,
+                  "StartTime": 0.0,
+                  "StartValue": 120.366,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 121.829,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 121.829,
+                  "StartTime": 0.0,
+                  "StartValue": 121.829,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 124.024,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 124.024,
+                  "StartTime": 0.0,
+                  "StartValue": 124.024,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 124.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 124.756,
+                  "StartTime": 0.0,
+                  "StartValue": 124.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 36.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 126.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 126.22,
+                  "StartTime": 0.0,
+                  "StartValue": 126.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 127.317,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 127.317,
+                  "StartTime": 0.0,
+                  "StartValue": 127.317,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 128.415,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 128.415,
+                  "StartTime": 0.0,
+                  "StartValue": 128.415,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 90.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 129.512,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 129.512,
+                  "StartTime": 0.0,
+                  "StartValue": 129.512,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 130.427,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 130.427,
+                  "StartTime": 0.0,
+                  "StartValue": 130.427,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 137.012,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 137.012,
+                  "StartTime": 0.0,
+                  "StartValue": 137.012,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 138.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 138.293,
+                  "StartTime": 0.0,
+                  "StartValue": 138.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 139.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 139.39,
+                  "StartTime": 0.0,
+                  "StartValue": 139.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 90.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 140.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 140.488,
+                  "StartTime": 0.0,
+                  "StartValue": 140.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 141.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 141.585,
+                  "StartTime": 0.0,
+                  "StartValue": 141.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 142.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 142.683,
+                  "StartTime": 0.0,
+                  "StartValue": 142.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 143.78,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 143.78,
+                  "StartTime": 0.0,
+                  "StartValue": 143.78,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 144.878,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 144.878,
+                  "StartTime": 0.0,
+                  "StartValue": 144.878,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 153.476,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 153.476,
+                  "StartTime": 0.0,
+                  "StartValue": 153.476,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 0,
+            "JudgeTime": 157.134,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 157.134,
+                  "StartTime": 0.0,
+                  "StartValue": 157.134,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 0,
+      "TrackValue": -90.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 32.927,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 32.927,
+                  "StartTime": 0.0,
+                  "StartValue": 32.927,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 44.268,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 44.268,
+                  "StartTime": 0.0,
+                  "StartValue": 44.268,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 61.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 61.463,
+                  "StartTime": 0.0,
+                  "StartValue": 61.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 63.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 63.659,
+                  "StartTime": 0.0,
+                  "StartValue": 63.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 64.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 64.39,
+                  "StartTime": 0.0,
+                  "StartValue": 64.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 64.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 64.756,
+                  "StartTime": 0.0,
+                  "StartValue": 64.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 65.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 65.488,
+                  "StartTime": 0.0,
+                  "StartValue": 65.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 65.854,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 65.854,
+                  "StartTime": 0.0,
+                  "StartValue": 65.854,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 67.317,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 67.317,
+                  "StartTime": 0.0,
+                  "StartValue": 67.317,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 67.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 67.683,
+                  "StartTime": 0.0,
+                  "StartValue": 67.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 68.049,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 68.049,
+                  "StartTime": 0.0,
+                  "StartValue": 68.049,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 69.146,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 69.146,
+                  "StartTime": 0.0,
+                  "StartValue": 69.146,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 98.78,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 98.78,
+                  "StartTime": 0.0,
+                  "StartValue": 98.78,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 99.878,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 99.878,
+                  "StartTime": 0.0,
+                  "StartValue": 99.878,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 108.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 100.244,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 100.244,
+                  "StartTime": 0.0,
+                  "StartValue": 100.244,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 36.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 100.61,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 100.61,
+                  "StartTime": 0.0,
+                  "StartValue": 100.61,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 108.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 100.976,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 100.976,
+                  "StartTime": 0.0,
+                  "StartValue": 100.976,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 162.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 103.171,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 103.171,
+                  "StartTime": 0.0,
+                  "StartValue": 103.171,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 162.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 104.268,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 104.268,
+                  "StartTime": 0.0,
+                  "StartValue": 104.268,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 106.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 106.098,
+                  "StartTime": 0.0,
+                  "StartValue": 106.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 106.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 106.463,
+                  "StartTime": 0.0,
+                  "StartValue": 106.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -18.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 108.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 108.659,
+                  "StartTime": 0.0,
+                  "StartValue": 108.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -18.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 108.704,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 108.704,
+                  "StartTime": 0.0,
+                  "StartValue": 108.704,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 126.037,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 126.037,
+                  "StartTime": 0.0,
+                  "StartValue": 126.037,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 130.244,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 130.244,
+                  "StartTime": 0.0,
+                  "StartValue": 130.244,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 136.829,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 136.829,
+                  "StartTime": 0.0,
+                  "StartValue": 136.829,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 138.11,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 138.11,
+                  "StartTime": 0.0,
+                  "StartValue": 138.11,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 1,
+            "JudgeTime": 144.939,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 144.939,
+                  "StartTime": 0.0,
+                  "StartValue": 144.939,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 1,
+      "TrackValue": -72.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 19.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 19.756,
+                  "StartTime": 0.0,
+                  "StartValue": 19.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 44.451,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 44.451,
+                  "StartTime": 0.0,
+                  "StartValue": 44.451,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 47.927,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 47.927,
+                  "StartTime": 0.0,
+                  "StartValue": 47.927,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 48.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 48.659,
+                  "StartTime": 0.0,
+                  "StartValue": 48.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 50.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 50.488,
+                  "StartTime": 0.0,
+                  "StartValue": 50.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 51.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 51.22,
+                  "StartTime": 0.0,
+                  "StartValue": 51.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 102.073,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 102.073,
+                  "StartTime": 0.0,
+                  "StartValue": 102.073,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 105.366,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 105.366,
+                  "StartTime": 0.0,
+                  "StartValue": 105.366,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 108.75,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 108.75,
+                  "StartTime": 0.0,
+                  "StartValue": 108.75,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 119.268,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 119.268,
+                  "StartTime": 0.0,
+                  "StartValue": 119.268,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 119.634,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 119.634,
+                  "StartTime": 0.0,
+                  "StartValue": 119.634,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 121.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 121.463,
+                  "StartTime": 0.0,
+                  "StartValue": 121.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 122.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 122.561,
+                  "StartTime": 0.0,
+                  "StartValue": 122.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 123.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 123.659,
+                  "StartTime": 0.0,
+                  "StartValue": 123.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 125.854,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 125.854,
+                  "StartTime": 0.0,
+                  "StartValue": 125.854,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 130.061,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 130.061,
+                  "StartTime": 0.0,
+                  "StartValue": 130.061,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 130.61,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 130.61,
+                  "StartTime": 0.0,
+                  "StartValue": 130.61,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 133.171,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 133.171,
+                  "StartTime": 0.0,
+                  "StartValue": 133.171,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 136.646,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 136.646,
+                  "StartTime": 0.0,
+                  "StartValue": 136.646,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 137.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 137.195,
+                  "StartTime": 0.0,
+                  "StartValue": 137.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 137.927,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 137.927,
+                  "StartTime": 0.0,
+                  "StartValue": 137.927,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 2,
+            "JudgeTime": 145.0,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 145.0,
+                  "StartTime": 0.0,
+                  "StartValue": 145.0,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 2,
+      "TrackValue": -54.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 31.829,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 31.829,
+                  "StartTime": 0.0,
+                  "StartValue": 31.829,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 44.634,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 44.634,
+                  "StartTime": 0.0,
+                  "StartValue": 44.634,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 82.317,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 82.317,
+                  "StartTime": 0.0,
+                  "StartValue": 82.317,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 88.902,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 88.902,
+                  "StartTime": 0.0,
+                  "StartValue": 88.902,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 94.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 94.39,
+                  "StartTime": 0.0,
+                  "StartValue": 94.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 96.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 96.585,
+                  "StartTime": 0.0,
+                  "StartValue": 96.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 97.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 97.683,
+                  "StartTime": 0.0,
+                  "StartValue": 97.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -54.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 99.878,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 99.878,
+                  "StartTime": 0.0,
+                  "StartValue": 99.878,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 100.244,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 100.244,
+                  "StartTime": 0.0,
+                  "StartValue": 100.244,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 100.61,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 100.61,
+                  "StartTime": 0.0,
+                  "StartValue": 100.61,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 100.976,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 100.976,
+                  "StartTime": 0.0,
+                  "StartValue": 100.976,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -54.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 102.134,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 102.134,
+                  "StartTime": 0.0,
+                  "StartValue": 102.134,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 103.171,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 103.171,
+                  "StartTime": 0.0,
+                  "StartValue": 103.171,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -54.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 104.268,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 104.268,
+                  "StartTime": 0.0,
+                  "StartValue": 104.268,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 36.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 106.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 106.098,
+                  "StartTime": 0.0,
+                  "StartValue": 106.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 36.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 106.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 106.463,
+                  "StartTime": 0.0,
+                  "StartValue": 106.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 126.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 107.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 107.561,
+                  "StartTime": 0.0,
+                  "StartValue": 107.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 126.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 125.671,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 125.671,
+                  "StartTime": 0.0,
+                  "StartValue": 125.671,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 129.878,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 129.878,
+                  "StartTime": 0.0,
+                  "StartValue": 129.878,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 136.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 136.463,
+                  "StartTime": 0.0,
+                  "StartValue": 136.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 137.744,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 137.744,
+                  "StartTime": 0.0,
+                  "StartValue": 137.744,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 145.061,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 145.061,
+                  "StartTime": 0.0,
+                  "StartValue": 145.061,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 145.854,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 145.854,
+                  "StartTime": 0.0,
+                  "StartValue": 145.854,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 149.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 149.756,
+                  "StartTime": 0.0,
+                  "StartValue": 149.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 3,
+            "JudgeTime": 151.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 151.098,
+                  "StartTime": 0.0,
+                  "StartValue": 151.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -18.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 3,
+      "TrackValue": -36.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 21.951,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 21.951,
+                  "StartTime": 0.0,
+                  "StartValue": 21.951,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 45.0,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 45.0,
+                  "StartTime": 0.0,
+                  "StartValue": 45.0,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 47.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 47.561,
+                  "StartTime": 0.0,
+                  "StartValue": 47.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 49.024,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 49.024,
+                  "StartTime": 0.0,
+                  "StartValue": 49.024,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 51.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 51.585,
+                  "StartTime": 0.0,
+                  "StartValue": 51.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 109.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 109.756,
+                  "StartTime": 0.0,
+                  "StartValue": 109.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 111.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 111.585,
+                  "StartTime": 0.0,
+                  "StartValue": 111.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 112.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 112.683,
+                  "StartTime": 0.0,
+                  "StartValue": 112.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 114.146,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 114.146,
+                  "StartTime": 0.0,
+                  "StartValue": 114.146,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 116.341,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 116.341,
+                  "StartTime": 0.0,
+                  "StartValue": 116.341,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 118.537,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 118.537,
+                  "StartTime": 0.0,
+                  "StartValue": 118.537,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 122.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 122.195,
+                  "StartTime": 0.0,
+                  "StartValue": 122.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 123.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 123.293,
+                  "StartTime": 0.0,
+                  "StartValue": 123.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 124.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 124.39,
+                  "StartTime": 0.0,
+                  "StartValue": 124.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 125.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 125.488,
+                  "StartTime": 0.0,
+                  "StartValue": 125.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 131.707,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 131.707,
+                  "StartTime": 0.0,
+                  "StartValue": 131.707,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 132.805,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 132.805,
+                  "StartTime": 0.0,
+                  "StartValue": 132.805,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 133.537,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 133.537,
+                  "StartTime": 0.0,
+                  "StartValue": 133.537,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 133.902,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 133.902,
+                  "StartTime": 0.0,
+                  "StartValue": 133.902,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 135.0,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 135.0,
+                  "StartTime": 0.0,
+                  "StartValue": 135.0,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 137.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 137.561,
+                  "StartTime": 0.0,
+                  "StartValue": 137.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 4,
+            "JudgeTime": 147.866,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 147.866,
+                  "StartTime": 0.0,
+                  "StartValue": 147.866,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 4,
+      "TrackValue": -18.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 30.732,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 30.732,
+                  "StartTime": 0.0,
+                  "StartValue": 30.732,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 65.854,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 65.854,
+                  "StartTime": 0.0,
+                  "StartValue": 65.854,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 66.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 66.22,
+                  "StartTime": 0.0,
+                  "StartValue": 66.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 66.951,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 66.951,
+                  "StartTime": 0.0,
+                  "StartValue": 66.951,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 67.317,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 67.317,
+                  "StartTime": 0.0,
+                  "StartValue": 67.317,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 83.415,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 83.415,
+                  "StartTime": 0.0,
+                  "StartValue": 83.415,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 150.244,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 150.244,
+                  "StartTime": 0.0,
+                  "StartValue": 150.244,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 5,
+            "JudgeTime": 151.646,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 151.646,
+                  "StartTime": 0.0,
+                  "StartValue": 151.646,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 5,
+      "TrackValue": 0.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 23.049,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 23.049,
+                  "StartTime": 0.0,
+                  "StartValue": 23.049,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 45.366,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 45.366,
+                  "StartTime": 0.0,
+                  "StartValue": 45.366,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 47.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 47.195,
+                  "StartTime": 0.0,
+                  "StartValue": 47.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 49.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 49.39,
+                  "StartTime": 0.0,
+                  "StartValue": 49.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 51.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 51.585,
+                  "StartTime": 0.0,
+                  "StartValue": 51.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 115.244,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 115.244,
+                  "StartTime": 0.0,
+                  "StartValue": 115.244,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 117.439,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 117.439,
+                  "StartTime": 0.0,
+                  "StartValue": 117.439,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 120.732,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 120.732,
+                  "StartTime": 0.0,
+                  "StartValue": 120.732,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 122.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 122.195,
+                  "StartTime": 0.0,
+                  "StartValue": 122.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 123.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 123.293,
+                  "StartTime": 0.0,
+                  "StartValue": 123.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 124.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 124.39,
+                  "StartTime": 0.0,
+                  "StartValue": 124.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 140.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 140.488,
+                  "StartTime": 0.0,
+                  "StartValue": 140.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 141.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 141.585,
+                  "StartTime": 0.0,
+                  "StartValue": 141.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 142.317,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 142.317,
+                  "StartTime": 0.0,
+                  "StartValue": 142.317,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 142.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 142.683,
+                  "StartTime": 0.0,
+                  "StartValue": 142.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 6,
+            "JudgeTime": 143.78,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 143.78,
+                  "StartTime": 0.0,
+                  "StartValue": 143.78,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 6,
+      "TrackValue": 18.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 28.537,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 28.537,
+                  "StartTime": 0.0,
+                  "StartValue": 28.537,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 46.829,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 46.829,
+                  "StartTime": 0.0,
+                  "StartValue": 46.829,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 81.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 81.22,
+                  "StartTime": 0.0,
+                  "StartValue": 81.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 91.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 91.098,
+                  "StartTime": 0.0,
+                  "StartValue": 91.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 94.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 94.39,
+                  "StartTime": 0.0,
+                  "StartValue": 94.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 97.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 97.683,
+                  "StartTime": 0.0,
+                  "StartValue": 97.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 98.78,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 98.78,
+                  "StartTime": 0.0,
+                  "StartValue": 98.78,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 54.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 102.134,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 102.134,
+                  "StartTime": 0.0,
+                  "StartValue": 102.134,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 110.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 110.488,
+                  "StartTime": 0.0,
+                  "StartValue": 110.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 127.683,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 127.683,
+                  "StartTime": 0.0,
+                  "StartValue": 127.683,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 138.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 138.659,
+                  "StartTime": 0.0,
+                  "StartValue": 138.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 145.366,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 145.366,
+                  "StartTime": 0.0,
+                  "StartValue": 145.366,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 147.012,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 147.012,
+                  "StartTime": 0.0,
+                  "StartValue": 147.012,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 150.61,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 150.61,
+                  "StartTime": 0.0,
+                  "StartValue": 150.61,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 7,
+            "JudgeTime": 152.439,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 152.439,
+                  "StartTime": 0.0,
+                  "StartValue": 152.439,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 18.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 7,
+      "TrackValue": 36.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 24.146,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 24.146,
+                  "StartTime": 0.0,
+                  "StartValue": 24.146,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 45.732,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 45.732,
+                  "StartTime": 0.0,
+                  "StartValue": 45.732,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 46.646,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 46.646,
+                  "StartTime": 0.0,
+                  "StartValue": 46.646,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 49.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 49.756,
+                  "StartTime": 0.0,
+                  "StartValue": 49.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 50.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 50.488,
+                  "StartTime": 0.0,
+                  "StartValue": 50.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 51.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 51.22,
+                  "StartTime": 0.0,
+                  "StartValue": 51.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 102.073,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 102.073,
+                  "StartTime": 0.0,
+                  "StartValue": 102.073,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 105.366,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 105.366,
+                  "StartTime": 0.0,
+                  "StartValue": 105.366,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 119.268,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 119.268,
+                  "StartTime": 0.0,
+                  "StartValue": 119.268,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 119.634,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 119.634,
+                  "StartTime": 0.0,
+                  "StartValue": 119.634,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 121.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 121.463,
+                  "StartTime": 0.0,
+                  "StartValue": 121.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 122.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 122.561,
+                  "StartTime": 0.0,
+                  "StartValue": 122.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 124.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 124.756,
+                  "StartTime": 0.0,
+                  "StartValue": 124.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 127.866,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 127.866,
+                  "StartTime": 0.0,
+                  "StartValue": 127.866,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 128.415,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 128.415,
+                  "StartTime": 0.0,
+                  "StartValue": 128.415,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 138.841,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 138.841,
+                  "StartTime": 0.0,
+                  "StartValue": 138.841,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 139.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 139.39,
+                  "StartTime": 0.0,
+                  "StartValue": 139.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 140.122,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 140.122,
+                  "StartTime": 0.0,
+                  "StartValue": 140.122,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 8,
+            "JudgeTime": 141.951,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 141.951,
+                  "StartTime": 0.0,
+                  "StartValue": 141.951,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 8,
+      "TrackValue": 54.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 26.341,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 26.341,
+                  "StartTime": 0.0,
+                  "StartValue": 26.341,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 46.463,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 46.463,
+                  "StartTime": 0.0,
+                  "StartValue": 46.463,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 62.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 62.195,
+                  "StartTime": 0.0,
+                  "StartValue": 62.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 62.561,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 62.561,
+                  "StartTime": 0.0,
+                  "StartValue": 62.561,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 63.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 63.293,
+                  "StartTime": 0.0,
+                  "StartValue": 63.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 63.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 63.659,
+                  "StartTime": 0.0,
+                  "StartValue": 63.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 65.122,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 65.122,
+                  "StartTime": 0.0,
+                  "StartValue": 65.122,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 65.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 65.488,
+                  "StartTime": 0.0,
+                  "StartValue": 65.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 66.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 66.22,
+                  "StartTime": 0.0,
+                  "StartValue": 66.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 66.585,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 66.585,
+                  "StartTime": 0.0,
+                  "StartValue": 66.585,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 68.049,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 68.049,
+                  "StartTime": 0.0,
+                  "StartValue": 68.049,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 69.146,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 69.146,
+                  "StartTime": 0.0,
+                  "StartValue": 69.146,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 128.049,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 128.049,
+                  "StartTime": 0.0,
+                  "StartValue": 128.049,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 9,
+            "JudgeTime": 139.024,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 139.024,
+                  "StartTime": 0.0,
+                  "StartValue": 139.024,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 9,
+      "TrackValue": 72.0
+    },
+    {
+      "NoteList": [
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 25.244,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 25.244,
+                  "StartTime": 0.0,
+                  "StartValue": 25.244,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 46.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 46.098,
+                  "StartTime": 0.0,
+                  "StartValue": 46.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 50.122,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 50.122,
+                  "StartTime": 0.0,
+                  "StartValue": 50.122,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 79.024,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 79.024,
+                  "StartTime": 0.0,
+                  "StartValue": 79.024,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 87.805,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 87.805,
+                  "StartTime": 0.0,
+                  "StartValue": 87.805,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 88.902,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 88.902,
+                  "StartTime": 0.0,
+                  "StartValue": 88.902,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 92.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 92.195,
+                  "StartTime": 0.0,
+                  "StartValue": 92.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 95.488,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 95.488,
+                  "StartTime": 0.0,
+                  "StartValue": 95.488,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 109.39,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 109.39,
+                  "StartTime": 0.0,
+                  "StartValue": 109.39,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 111.951,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 111.951,
+                  "StartTime": 0.0,
+                  "StartValue": 111.951,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 113.049,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 113.049,
+                  "StartTime": 0.0,
+                  "StartValue": 113.049,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 113.78,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 113.78,
+                  "StartTime": 0.0,
+                  "StartValue": 113.78,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 115.976,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 115.976,
+                  "StartTime": 0.0,
+                  "StartValue": 115.976,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 0,
+            "ClipNum": 2,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 118.171,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 118.171,
+                  "StartTime": 0.0,
+                  "StartValue": 118.171,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 121.829,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 121.829,
+                  "StartTime": 0.0,
+                  "StartValue": 121.829,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 122.927,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 122.927,
+                  "StartTime": 0.0,
+                  "StartValue": 122.927,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 123.659,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 123.659,
+                  "StartTime": 0.0,
+                  "StartValue": 123.659,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -36.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 125.122,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 125.122,
+                  "StartTime": 0.0,
+                  "StartValue": 125.122,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 126.22,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 126.22,
+                  "StartTime": 0.0,
+                  "StartValue": 126.22,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 128.232,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 128.232,
+                  "StartTime": 0.0,
+                  "StartValue": 128.232,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 129.512,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 129.512,
+                  "StartTime": 0.0,
+                  "StartValue": 129.512,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 130.61,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 130.61,
+                  "StartTime": 0.0,
+                  "StartValue": 130.61,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -90.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 131.707,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 131.707,
+                  "StartTime": 0.0,
+                  "StartValue": 131.707,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 132.805,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 132.805,
+                  "StartTime": 0.0,
+                  "StartValue": 132.805,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 133.902,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 133.902,
+                  "StartTime": 0.0,
+                  "StartValue": 133.902,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -72.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 135.0,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 135.0,
+                  "StartTime": 0.0,
+                  "StartValue": 135.0,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 4,
+            "ClipNum": 14,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 136.098,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 136.098,
+                  "StartTime": 0.0,
+                  "StartValue": 136.098,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 137.195,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 137.195,
+                  "StartTime": 0.0,
+                  "StartValue": 137.195,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": -90.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 138.293,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 138.293,
+                  "StartTime": 0.0,
+                  "StartValue": 138.293,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 139.207,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 139.207,
+                  "StartTime": 0.0,
+                  "StartValue": 139.207,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 139.756,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 139.756,
+                  "StartTime": 0.0,
+                  "StartValue": 139.756,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 1,
+            "ClipNum": 25,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 146.402,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 146.402,
+                  "StartTime": 0.0,
+                  "StartValue": 146.402,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 2,
+            "ClipNum": 12,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 153.476,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 153.476,
+                  "StartTime": 0.0,
+                  "StartValue": 153.476,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": false
+          },
+          "UnrealNotes": []
+        },
+        {
+          "MasterNote": {
+            "InteractiveEvents": 14,
+            "EventValue": {},
+            "ParentTrackKeyNum": 10,
+            "JudgeTime": 157.134,
+            "TimeFloat": {
+              "FlexibleFloats": [
+                {
+                  "Curve": 0,
+                  "EndTime": 160.609,
+                  "EndValue": 157.134,
+                  "StartTime": 0.0,
+                  "StartValue": 157.134,
+                  "KeyName": null
+                }
+              ]
+            },
+            "TrackValue": 0.0,
+            "VisibleNoteLength": 2.0,
+            "Type": 3,
+            "ClipNum": 26,
+            "IsHoldBody": true
+          },
+          "UnrealNotes": []
+        }
+      ],
+      "TrackKeyNum": 10,
+      "TrackValue": 90.0
+    }
+  ],
+  "TimingPoints": [
+    {
+      "Time": 0.0,
+      "Bpm": 164.0,
+      "Beat": 4.0
+    }
+  ]
+}

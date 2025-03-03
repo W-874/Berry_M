@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07e10669f96324a4a9917f3ec987d6f9, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier: 
+  identifier: 8
+  illustration: {fileID: 21300000, guid: a9403cc7ba38542c5bbb3e47b9d9cd53, type: 3}
+  chapterName: "\u4EFB\u6AC2\u4E00"
+  chapterTitle: "\u3010\u521D\u89C1\u771F\u5B9E\u7684\u590D\u4EC7\u5C11\u5E74\u3011\\nFixed
+    Star\u6210\u5458\u4E4B\u4E00\uFF0C\u80FD\u4F7F\u7528\u64CD\u7EB5\u5BD2\u51B0\u7684\u9B54\u6CD5\u3002\\n\u751F\u6D3B\u5728\u8FDC\u79BB\u57CE\u5E02\u7684\u51B0\u539F\u5E9F\u589F\u3002\\n\u6BD4\u8D77\u62EF\u6551\u4E16\u754C\uFF0C\u4ED6\u66F4\u60F3\u8981\u593A\u56DE\u81EA\u5DF1\u5931\u53BB\u7684\u4E00\u5207\u3002"
+  nameBoxColor: {r: 0.007843138, g: 0.003921569, b: 0.70980394, a: 1}
